@@ -9,6 +9,8 @@ body {
   color: navy;
   margin: auto;
   font-family: water;
+
+cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='45' height='54' viewport='0 0 100 100' style='fill:black;font-size:27px;'><text y='50%'>🐟</text></svg>") 16 0,auto; /*!emojicursor.app*/
 }
 
 h1{
@@ -16,7 +18,7 @@ h1{
 }
 
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
+  background-image: url("https://sb.ecobnb.net/app/uploads/sites/3/2022/04/copertina-1.jpg");
   background-size: 600px 400px;
   border-radius: 300px;
   border: 5px solid white;
